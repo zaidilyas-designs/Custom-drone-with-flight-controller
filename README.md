@@ -8,7 +8,8 @@ I have always wanted a drone, but never enough money or time to build one. Now t
 
 <img width="1520" height="722" alt="zaidSensorDrawer (~recovered)" src="https://github.com/user-attachments/assets/033ae096-d794-4306-9e0b-c97a1f067b0a" />
 <img width="726" height="759" alt="image" src="https://github.com/user-attachments/assets/fc1e6fb2-01d9-46da-a15e-bca114ccede7" />
-[Note Jan 18, 2026.pdf](https://github.com/user-attachments/files/24722796/Note.Jan.18.2026.pdf)
+
+<img width="1700" height="2131" alt="45df65e0-1" src="https://github.com/user-attachments/assets/4c9fb827-8974-47f5-bfec-4b199d1e2716" />
 
 
 
